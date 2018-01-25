@@ -1,2 +1,2 @@
 # UBX
-Relay_testCases
+Relay_testCases for Solid Satate Relay to put under stress some devices 
